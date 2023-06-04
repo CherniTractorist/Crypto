@@ -1,0 +1,64 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.dev.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\ref\Cripta_Lab4.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\ref\Cripta_Lab4.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.genruntimeconfig.cache
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.exe
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.deps.json
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.json
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.dev.json
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.dll
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\ref\Cripta_Lab4.dll
+D:\3 курс\крипта\Cripta_Lab4\bin\Debug\net5.0\Cripta_Lab4.pdb
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.csproj.AssemblyReference.cache
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfoInputs.cache
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfo.cs
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.csproj.CoreCompileInputs.cache
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.dll
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\ref\Cripta_Lab4.dll
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.pdb
+D:\3 курс\крипта\Cripta_Lab4\obj\Debug\net5.0\Cripta_Lab4.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.exe
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.deps.json
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.json
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\bin\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\refint\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\Cripta_Lab4.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\отчеты\Nast\KMZI\4\obj\Debug\net5.0\ref\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.exe
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.deps.json
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.json
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\bin\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\refint\Cripta_Lab4.dll
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.pdb
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\Cripta_Lab4.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\отчеты\Maks\Lab4\4\obj\Debug\net5.0\ref\Cripta_Lab4.dll
